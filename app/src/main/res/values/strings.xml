@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">MAD Team 5</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="loginbtn">LOGIN</string>
+    <string name="forgotpassword">Forgot password?</string>
+    <string name="or">OR</string>
+    <string name="signupbtn">Sign up</string>
 </resources>

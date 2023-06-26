@@ -22,7 +22,7 @@ public class LoadingScreen extends AppCompatActivity {
 
     public void progbar()
     {
-        pb = findViewById(R.id.pb);
+        pb = findViewById(R.id.progressBar);
 
         final Timer t = new Timer();
         TimerTask tt = new TimerTask() {
